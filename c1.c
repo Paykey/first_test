@@ -1,3 +1,4 @@
+///Jiseong Kim / 202000982 / 컴퓨터전자시스템공학부
 #include <stdio.h>
 
 int main()
