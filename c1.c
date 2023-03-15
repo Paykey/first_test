@@ -1,4 +1,4 @@
-///Jiseong Kim / 202000982 / 컴퓨터전자시스템공학부
+///Jiseong Kim / 202000982 / 컴퓨터전자시스템공학부 / 01년생 23살
 #include <stdio.h>
 
 int main()
