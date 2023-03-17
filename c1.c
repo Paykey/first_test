@@ -5,6 +5,7 @@
 //메인수정
 //활발한
 //업데이트
+//서브8수정
 #include <stdio.h>
 
 int main()
